@@ -28,6 +28,8 @@
     - add the following to package.json
 13. run `npx husky init`
 14. create a .gitignore file with the following contents
-14. create a repository
-15. run github pages
-15. webpack config
+15. create a repository
+16. run github pages
+    - go to settings
+    - then pages
+    - then change branch to main and save
