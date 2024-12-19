@@ -5,7 +5,7 @@ class Play extends Phaser.Scene {
 
     create() {
         // running checks
-        console.log('%cPLAY SCENE :^)', testColor)
-        console.log('heehehh');
+        console.log('%cPLAY SCENE :^)', testColor);
+        console.log('heehehh')
     }
 }
